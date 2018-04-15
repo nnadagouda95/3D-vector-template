@@ -1,0 +1,3 @@
+/mnt/d/SemII/APT/vec3/vec3/CMakeFiles/rebuild_cache.dir
+/mnt/d/SemII/APT/vec3/vec3/CMakeFiles/edit_cache.dir
+/mnt/d/SemII/APT/vec3/vec3/CMakeFiles/vec3.dir
